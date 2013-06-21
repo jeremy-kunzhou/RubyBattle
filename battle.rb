@@ -7,7 +7,7 @@ def promp
 end
 
 def startbattle (player, enemy)
-	puts "Battle start!"
+	puts "Battle need to start!"
 
 	while true
 		puts "Who will attack #{player.name}(0) or #{enemy.name}(1)?"

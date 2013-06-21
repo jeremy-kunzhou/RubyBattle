@@ -1,6 +1,7 @@
 require './Player.rb'
 require './Enemy.rb'
 require './battlerule.rb'
+
 def promp
 	print ">"
 end
